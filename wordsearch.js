@@ -1,5 +1,5 @@
 /**
- * PAIR PROGRAMMING
+ * PAIR PROGRAMMING BY MINGHUI TAN AND ALEX MOZGOVOY
  */
 
 const wordSearch = (letters, word) => {
